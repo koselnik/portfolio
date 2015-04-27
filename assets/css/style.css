@@ -77,12 +77,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-brand {
-	color: #eabe35;
+	color: #f2f2f2;
 }
 
 .navbar-default {
 	font-family: 'Didact Gothic', sans-serif;
-	background-color: #F6F3A0;
+	background-color: #EABE35;
 	border-color: transparent;
 }
 .navbar-default background {
@@ -91,13 +91,13 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
 	
 	font-family: 'Didact Gothic', sans-serif;
-	color: #eabe35;
+	color: #f2f2f2;
 	background-color: transparent;
 	border-bottom: 2px solid #eabe35
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: #eabe35;
+	color: #f2f2f2;
 }
 
 /* ==========================================================================
@@ -158,7 +158,7 @@ h1, h2, h3, h4, h5, h6 {
 #footerwrap {
 	padding-top: 30px;
 	padding-bottom: 30px;
-	background-color: #eabe35;
+	background-color: #39887F;
 }
 
 #footerwrap p {
