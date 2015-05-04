@@ -105,9 +105,8 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/about.jpg) no-repeat center top;
+	background-color: #B94BAC;
 	margin-top: -70px;
-	padding-top: 250px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
@@ -153,7 +152,7 @@ h1, h2, h3, h4, h5, h6 {
 #footerwrap {
 	padding-top: 30px;
 	padding-bottom: 30px;
-	background-color: #39887F;
+	background-color: #35ACA2;
 }
 
 #footerwrap p {
