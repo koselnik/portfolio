@@ -56,7 +56,10 @@
 /* ==========================================================================
    General styles
    ========================================================================== */
+p {
+    text-align: justify;
 
+}
 
 body {
     font-family: 'Didact Gothic', sans-serif;
@@ -105,7 +108,7 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	background-color: #B94BAC;
+	background-color: #35ACA2;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
@@ -187,7 +190,7 @@ h1, h2, h3, h4, h5, h6 {
 #footerwrap {
 	padding-top: 30px;
 	padding-bottom: 30px;
-	background-color: #35ACA2;
+	background-color: #B94BAC;
 }
 
 #footerwrap p {
@@ -249,9 +252,6 @@ h1, h2, h3, h4, h5, h6 {
     -o-background-size: cover;
     background-size: cover;
 }
-
-
-
 
 /* Gallery */
 .gallery {
